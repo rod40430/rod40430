@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rod40430
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rod40430/rod40430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
+<font style="vertical-align: inherit;">
+<font style="vertical-align: inherit;">#181717</font>
+</font>
+</a>
