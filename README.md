@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=HelloWorld!&color=4682B4&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20World!&fontSize=90&fontAlignY=40)
