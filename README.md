@@ -11,4 +11,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod40430)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430&layout=compact)
+  <br/>
+  ## 방문자
+  <img src="https://profile-counter.glitch.me/rod40430/count.svg" />
 </div>
