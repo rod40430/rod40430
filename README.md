@@ -1,6 +1,7 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=I%20love%20C!&fontSize=90&fontAlignY=40)
+  <img src= https://i.pinimg.com/originals/dd/62/cb/dd62cb20bb3b62171bd78e4415f28d79.gif>
   
   <h2>안녕하세요.저는
   <div style="display: flex;">
