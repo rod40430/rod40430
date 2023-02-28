@@ -9,11 +9,17 @@
   언어에 관심이 많은 프로그래머 입니다!
   </h2>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod40430)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430)](https://github.com/rod40430/github-readme-stats)
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod40430)](https://github.com/rod40430/github-readme-stats)
+
+  
   <br/>
+  
   ![snake gif](https://github.com/rod40430/rod40430/blob/output/github-contribution-grid-snake.gif)
+  
   <br/>
+  
   <h2>방문자</h2>
   <img src="https://profile-counter.glitch.me/rod40430/count.svg" />
 </div>
