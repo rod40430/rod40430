@@ -10,7 +10,7 @@
   </h2>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod40430&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430)](https://github.com/rod40430/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430&layout=compact&theme=stats)
   
   <br/>
   
