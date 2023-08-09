@@ -12,11 +12,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod40430&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430&layout=compact&theme=stats)
   
-  <br/>
-  
-  ![snake gif](https://github.com/rod40430/rod40430/blob/output/github-contribution-grid-snake.gif)
-  <br/>
-  
   <h2>방문자</h2>
   <img src="https://profile-counter.glitch.me/rod40430/count.svg" />
 </div>
