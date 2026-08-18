@@ -8,10 +8,4 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50tyle="width: 30px; height: 30px; margin-right: 0px; margin-bottom: 0px;" />
   언어에 관심이 많은 프로그래머 입니다!
   </h2>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod40430&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod40430&layout=compact&theme=stats)
-  
-  <h2>방문자</h2>
-  <img src="https://profile-counter.glitch.me/rod40430/count.svg" />
 </div>
